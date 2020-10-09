@@ -1,2 +1,4 @@
 # algorythms
-Introduction to Algorithms, Third Edition
+##Introduction to Algorithms, Third Edition
+
+notes from prgmr bible
